@@ -8,7 +8,7 @@ class Description extends Component {
       <div className='center_wrapper'>
       <h2>Highlights</h2>
         <div className='highlight_description'>
-          Yeah, breakfast at Tiffany's and bottles of bubbles
+            Yeah, breakfast at Tiffany's and bottles of bubbles
             Girls with tattoos who like getting in trouble
             Lashes and diamonds, ATM machines
             Buy myself all of my favorite things (Yeah)
